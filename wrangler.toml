@@ -1,0 +1,3 @@
+name = "my-telegram-worker"
+compatibility_date = "2026-02-07"
+main = "index.js" # مسیر فایل Worker شما
